@@ -1,0 +1,1 @@
+https://www.dotnetcurry.com/nodejs/1032/nodejs-apps-in-visual-studio-mean-stack : configurar mongo node y visualstudio
