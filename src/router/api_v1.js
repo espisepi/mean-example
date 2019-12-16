@@ -3,8 +3,8 @@ const router = express.Router();
 
 //const User = require('../models/user');
 
-router.get("/users", (req, res) => {
-  console.log("Hola mundillo");
+router.get("/", (req, res) => {
+  res.send("Holita Mundo!!!");
 });
 
 module.exports = router;
